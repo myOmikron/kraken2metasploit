@@ -1167,7 +1167,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "kraken2xml"
+name = "kraken2metasploit"
 version = "0.1.0"
 dependencies = [
  "clap",
